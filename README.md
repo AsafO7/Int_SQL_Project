@@ -10,7 +10,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ## Clean Up Data
 
-**🖥️ Query**: [0_create_view.sql](cohort_view.sql)
+**🖥️ Query**: [0_cohort_view.sql](cohort_view.sql)
 
 - Aggregated sales and customer data into revenue metrics
 - Calculated first purchase dates for cohort analysis
